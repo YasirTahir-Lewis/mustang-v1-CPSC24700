@@ -1,0 +1,27 @@
+{
+    "firstName": "Yasir",
+    "lastName": "Tahir",
+    "age": "22",
+    "preferredName": "Yasir",
+    "email": "yasirtahir@lewisu.edu",
+    "phoneNumber": "262-914-7962",
+    "class": "CPSC-24700-001",
+    "room": "AS-104-A",
+    "startTime": "3pm CT",
+    "seatNumber": "418",
+    "inPerson": [
+        "none"
+    ],
+    "virtual": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+    ],
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zipCode": "53142",
+    "lat": "42.58",
+    "long": "-87.82",
+    "favoriteHobby": "Flying"
+
+}

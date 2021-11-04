@@ -1,0 +1,24 @@
+{
+    "firstName": "Bruce",
+    "lastName": "Wayne",
+    "age": "26",
+    "preferredName": "Batman",
+    "email": "darkknight@lewisu.edu",
+    "phoneNumber": "800-bat-mann",
+    "city": "Gotham",
+    "state": "NJ",
+    "zip": "07101",
+    "lat": "40.73",
+    "lng": "-74.17",
+    "favoriteHobby": "Flying",
+    "class": "cpsc-24700-001",
+    "room": "AS-104-A",
+    "startTime": "3pm CT",
+    "seatNumber": "",
+    "inPerson": [],
+    "virtual": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+    ]
+}

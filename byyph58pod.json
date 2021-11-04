@@ -1,0 +1,24 @@
+{
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "age": "28",
+    "preferredName": "Spider-Man",
+    "email": "spider.web@lewisu.edu",
+    "phoneNumber": "800-spider-man",
+    "city": "New York City",
+    "state": "NY",
+    "zip": "11375",
+    "lat": "40.73",
+    "lng": "-73.84",
+    "favoriteHobby": "Wallcrawling",
+    "class": "cpsc-24700-001",
+    "room": "AS-104-A",
+    "startTime": "3pm CT",
+    "seatNumber": "",
+    "inPerson": [],
+    "virtual": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+    ]
+}
